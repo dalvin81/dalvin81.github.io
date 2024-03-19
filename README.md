@@ -1,1 +1,3 @@
-# Portfolio using github repo: https://github.com/varadbhogayata/varadbhogayata.github.io
+# Portfolio 
+
+Original work credit belongs to [Varad Bhogayata](https://github.com/varadbhogayata/varadbhogayata.github.io).
